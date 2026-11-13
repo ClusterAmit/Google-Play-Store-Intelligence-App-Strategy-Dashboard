@@ -90,22 +90,3 @@ All dashboard views are designed to respond to the selected filters.
 3.  Review the KPI cards for a high-level summary.
 4.  Explore each chart to compare category performance, pricing
     segments, app sizes, and review sentiment.
-
-## Project Screenshot
-
-![Google Play Store Intelligence & App Strategy
-Dashboard](dashboard.png)
-
-## Repository Contents
-
--   `README.md` --- Project overview, dashboard features, and usage
-    guide.
--   `dashboard.png` --- Dashboard preview.
--   `Google Play Store Dashboard.twbx` --- Add your Tableau packaged
-    workbook here, if you are sharing it.
-
-## Note
-
-This is an analytical portfolio project. Findings describe patterns in
-the available dataset and should not be interpreted as proof of
-causation.
